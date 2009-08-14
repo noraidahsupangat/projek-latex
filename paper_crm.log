@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=pdflatex 2009.8.11)  13 AUG 2009 11:23
+This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=pdflatex 2009.8.11)  13 AUG 2009 17:16
 entering extended mode
 **paper_crm
 (paper_crm.tex
@@ -153,13 +153,47 @@ File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 402.
 
-Underfull \hbox (badness 10000) in paragraph at lines 542--543
+Underfull \hbox (badness 2073) in paragraph at lines 437--438
+[]\OT1/ptm/m/n/10 CRM is a com-bi-na-tion of poli-cies, pro-cesses, and
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 437--438
+\OT1/ptm/m/n/10 cus-tomer in-ter-ac-tions and pro-vide a means to track
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--438
 
  []
 
-<table1.png, id=1, 621.32124pt x 215.80624pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--557
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--566
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--576
+
+ []
+
+[1{C:/ProgramData/MiKTeX/2.7/pdftex/config/pdftex.map}
+
+
+]
+<table1.png, id=8, 621.32124pt x 215.80624pt>
 File: table1.png Graphic file (type png)
- <use table1.png> (paper_crm.bbl)
+ <use table1.png> [2 <table1.png (PNG copy)>] (paper_crm.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -171,28 +205,25 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[1{C:/ProgramData/MiKTeX/2.7/pdftex/config/pdftex.map}
+[3
 
-
-] [2
-
- <table1.png (PNG copy)>] (paper_crm.aux) ) 
+] (paper_crm.aux) ) 
 Here is how much of TeX's memory you used:
- 1695 strings out of 95304
- 25327 string characters out of 1183070
- 76818 words of memory out of 1500000
- 4934 multiletter control sequences out of 110000
+ 1696 strings out of 95304
+ 25347 string characters out of 1183070
+ 79821 words of memory out of 1500000
+ 4935 multiletter control sequences out of 110000
  36451 words of font info for 66 fonts, out of 3000000 for 5000
  17 hyphenation exceptions out of 8191
- 26i,8n,21p,344b,297s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.7/fonts/e
-nc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.7/fonts/type1/urw/helvetic/
-uhvr8a.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/urw/times/utmb8a.pfb><C:/Pr
-ogram Files/MiKTeX 2.7/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTe
-X 2.7/fonts/type1/urw/times/utmri8a.pfb>
-Output written on paper_crm.pdf (2 pages, 67277 bytes).
+ 26i,8n,21p,441b,297s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.7/fonts/enc/dvips/fontname/8r.enc
+}<C:/Program Files/MiKTeX 2.7/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program F
+iles/MiKTeX 2.7/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.7/f
+onts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/urw/ti
+mes/utmri8a.pfb>
+Output written on paper_crm.pdf (3 pages, 74948 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
+ 30 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
